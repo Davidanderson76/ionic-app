@@ -1,0 +1,7 @@
+{
+  "name": "expressive",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
